@@ -56,5 +56,4 @@ SQL • Database Design • Analytical Queries • Python • Pandas • Data Vi
 ## 👤 Author
 
 **Lakendra Baines**
-MS in Management Information Systems
-Aspiring Data Analyst
+MS in Management Information Systems (Distinguished Graduate 4.0 GPA)
