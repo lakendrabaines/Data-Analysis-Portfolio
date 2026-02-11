@@ -1,4 +1,3 @@
-# Data-Analysis-Portfolio
 # Data Analytics Portfolio – Lakendra Baines
 
 This portfolio demonstrates an end-to-end analytics workflow using **SQL, Python, and Tableau** to transform raw sales data into business insights and interactive dashboards.
