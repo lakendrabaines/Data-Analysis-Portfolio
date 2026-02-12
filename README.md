@@ -44,7 +44,7 @@ Built an interactive dashboard featuring:
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](tableau-sales-dashboard/dashboard-preview.png)
+![Sales Dashboard](salesperformancedashboard.png)
 
 **Key outcome:**
 Delivered business-ready visual storytelling for decision-making.
