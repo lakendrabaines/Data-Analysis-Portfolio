@@ -44,7 +44,7 @@ Built an interactive dashboard featuring:
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](tableau-sales-dashboard/SalesPerformanceDashboard.png)
+![Sales Dashboard](https://github.com/lakendrabaines/Data-Analysis-Portfolio/blob/main/tableau-sales-dashboard/Sales%20Performance%20Dashboard.png)
 
 **Key outcome:**
 Delivered business-ready visual storytelling for decision-making.
