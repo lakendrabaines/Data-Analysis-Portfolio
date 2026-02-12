@@ -42,6 +42,10 @@ Built an interactive dashboard featuring:
 * Revenue Trend Over Time
 * Dashboard filtering for exploratory analysis
 
+## 📊 Dashboard Preview
+
+![Sales Dashboard](tableau-sales-dashboard/dashboard-preview.png)
+
 **Key outcome:**
 Delivered business-ready visual storytelling for decision-making.
 
