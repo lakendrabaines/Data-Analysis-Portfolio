@@ -82,7 +82,10 @@ The dashboard includes:
 - Dropout rate by age group
 - First- and second-semester approval rates by outcome
 - Dropout rate by academic course
+- ## Interactive Tableau Dashboard
 
+[View the Student Success & Academic Outcomes Dashboard on Tableau Public]
+https://public.tableau.com/app/profile/lakendra.baines8698/viz/StudentSuccessAcademicOutcomes/StudentSuccessAcademicOutcomes?publish=yes
 ---
 
 ## 🔍 Key Findings
